@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tienda de Contraseñas</string>
+    <string name="tv_nombre">Nombre de usuario</string>
+    <string name="tv_contraseña">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+
+    <string name="tv_item_nombre">Nombre</string>
+    <string name="tv_item_usuario">Usuario</string>
+    <string name="tv_item_password">Contraseña</string>
+
+    <string name="tv_agregar_nombre">Nombre de la entrada</string>
+    <string name="tv_agregar_usuario">Usuario de la entrada</string>
+    <string name="tv_agregar_password">Contraseña de la entrada</string>
+    <string name="btn_agregar">Agregar</string>
+</resources>
